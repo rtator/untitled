@@ -1,2 +1,2 @@
 game.showLongText("Hi! I'm Charles Harris. since this, what is this...      oh yeah! since this story has no title I'll tell you what it is about. it's about me turning into a superhero and what's been happening since I've turned into a superhero", DialogLayout.Full)
-game.showLongText("it started to happen when I was in recess at school. a bullie shoved a water bottle into my mouth and taped my mouth closed. I started to chew and ...      I swalloed", DialogLayout.Full)
+game.showLongText("it started to happen when I was in recess at school. a bullie shoved a water bottle into my mouth and taped my mouth closed. I started to chew and ...      I swallowed it! then I turned sea-through and could be crumpled like a plastic water bottle!", DialogLayout.Full)
